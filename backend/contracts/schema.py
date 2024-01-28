@@ -2,7 +2,7 @@ from typing import Dict, Union
 
 GenericSchema = Dict[str, Union[int, str, float]]
 
-ApiScheam : GenericSchema = {
+ApiSchema : GenericSchema = {
     "ean": int,
     "price": float,
     "store": int,
