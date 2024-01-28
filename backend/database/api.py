@@ -11,6 +11,7 @@ class ApiCollector:
     
     def run_pipeline(self, param):
         response = self.getData(param)
+        response = self.extractorData(response)
         return response 
     
     def getData(self, param):
