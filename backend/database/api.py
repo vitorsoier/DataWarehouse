@@ -8,7 +8,6 @@ from io import BytesIO
 
 
 class ApiCollector:
-
     def __init__(self, schema):
         self.__schema = schema
         self.__buffer = None
@@ -38,7 +37,8 @@ class ApiCollector:
         try:
             if param > 1:
                 response = requests.get(
-                    f"http://127.0.0.1:8000/compra_produto/{param}").json()
+                    f"http://127.0.0.1:8000/compra_produto/{param}"
+                ).json()
             else:
                 response = requests.get("http://127.0.0.1:8000/compra_produto").json()
             self.logger.info(f"Obtencao de dados realizada com sucesso")
@@ -49,15 +49,15 @@ class ApiCollector:
 
     def extractorData(self, response):
         try:
-            result : List[GenericSchema] = []
+            result: List[GenericSchema] = []
             for compra in response:
                 dict_aux = {}
                 for key, value in self.__schema.items():
                     if type(compra.get(key)) == value:
                         dict_aux[key] = compra[key]
                     else:
-                        dict_aux[key] = None   
-                result.append(dict_aux)  
+                        dict_aux[key] = None
+                result.append(dict_aux)
             self.logger.info(f"Extracao de dados realizada com sucesso")
         except:
             self.logger.warning(f"Extracao de dados falhou")
