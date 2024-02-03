@@ -1,6 +1,8 @@
 import logging
 import requests
 import pandas as pd
+import pyarrow.parquet as pq
+from database.gcs.storage import ManipulateGCSBucket
 from datetime import datetime
 from contracts.schema import GenericSchema
 from typing import List
@@ -21,12 +23,21 @@ class ApiCollector:
 
         self.logger = logging.getLogger(__class__.__name__)
 
-    def runPipeline(self, param):
+    def runPipeline(self, param, client, bucket_name):
         response = self.getData(param)
         if response != None:
             response = self.extractorData(response)
             if response != None:
                 response = self.transformDf(response)
+                self._buffer = self.transformToParquet(response)
+                if self._buffer is not None:
+                    file_name = self.fileName()
+                    ManipulateGCSBucket(client, bucket_name).start(
+                        self._buffer, file_name
+                    )
+                    return True
+                else:
+                    return False
             else:
                 self.logger.warning(f"Processo falhou na etapa extractor_data")
         else:
@@ -77,7 +88,13 @@ class ApiCollector:
         self.__buffer = BytesIO()
         try:
             response.to_parquet(self.__buffer)
-            self.logger.info(f"Parquet criado com sucesso: ")
+            self.logger.info(f"Parquet criado com sucesso")
+            return self.__buffer
         except Exception as e:
-            self.logger.warning(f"Criacao parquet falhou: ")
+            self.logger.warning(f"Criacao parquet falhou")
             self.__buffer = None
+
+    def fileName(self):
+        data_atual = datetime.now().isoformat()
+        match = data_atual.split(".")
+        return f"api-reponse-compra{match[0]}.parquet"

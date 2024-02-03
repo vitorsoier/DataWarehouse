@@ -30,3 +30,141 @@ DF criado com sucesso:  01/29/2024 03:54:15 PM
 01/29/2024 08:05:39 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
 01/29/2024 08:05:39 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
 01/29/2024 08:05:39 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:38:04 PM - ApiCollector - WARNING - Obtencao de dados falhou
+01/31/2024 03:38:04 PM - ApiCollector - WARNING - Processo falhou na etapa get_data
+01/31/2024 03:39:02 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:39:02 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:39:02 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:44:32 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:44:32 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:44:32 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:44:40 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:44:40 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:44:40 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:45:20 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:45:20 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:45:20 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:47:41 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:47:41 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:47:41 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:48:02 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:48:02 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:48:02 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:49:24 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:49:24 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:49:24 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:54:21 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:54:21 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:54:21 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:54:39 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:54:39 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:54:39 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:55:13 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 03:55:13 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 03:55:13 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 03:55:13 PM - ApiCollector - WARNING - Criacao parquet falhou: 
+01/31/2024 04:01:01 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 04:01:01 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 04:01:01 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 04:01:01 PM - ApiCollector - WARNING - Criacao parquet falhou: 
+01/31/2024 04:05:55 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 04:05:55 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 04:05:55 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 04:05:55 PM - ApiCollector - WARNING - Criacao parquet falhou: 
+01/31/2024 04:08:41 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 04:08:41 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 04:08:41 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 04:13:12 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 04:13:12 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 04:13:12 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 04:14:49 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 04:14:49 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 04:14:49 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 04:14:49 PM - ApiCollector - INFO - Parquet criado com sucesso: 
+01/31/2024 04:15:24 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 04:15:24 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 04:15:24 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 04:15:24 PM - ApiCollector - INFO - Parquet criado com sucesso: 
+01/31/2024 04:15:49 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 04:15:49 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 04:15:49 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 04:15:49 PM - ApiCollector - INFO - Parquet criado com sucesso: 
+01/31/2024 04:15:58 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 04:15:58 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 04:15:58 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 04:15:58 PM - ApiCollector - INFO - Parquet criado com sucesso: 
+01/31/2024 04:29:40 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+01/31/2024 04:29:40 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+01/31/2024 04:29:40 PM - ApiCollector - INFO - DF criado com sucesso
+01/31/2024 04:29:40 PM - ApiCollector - INFO - Parquet criado com sucesso: 
+02/03/2024 05:46:02 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 05:46:02 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 05:46:02 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 05:46:02 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 05:48:35 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 05:48:35 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 05:48:35 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 05:48:35 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 05:49:46 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 05:49:46 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 05:49:46 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 05:49:46 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:11:32 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:11:32 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:11:32 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:11:32 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:11:53 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:11:53 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:11:53 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:11:53 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:12:22 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:12:22 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:12:22 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:12:22 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:15:28 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:15:28 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:15:28 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:15:28 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:28:16 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:28:16 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:28:16 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:28:16 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:31:48 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:31:48 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:31:48 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:31:48 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:45:27 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:45:27 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:45:27 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:45:27 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:47:09 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:47:09 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:47:09 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:47:09 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:48:14 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:48:14 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:48:14 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:48:14 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 07:49:27 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 07:49:27 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 07:49:27 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 07:49:27 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 08:32:24 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 08:32:24 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 08:32:24 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 08:32:24 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 08:33:31 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 08:33:31 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 08:33:31 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 08:33:31 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 08:40:07 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 08:40:07 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 08:40:07 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 08:40:07 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 08:44:36 PM - ApiCollector - WARNING - Obtencao de dados falhou
+02/03/2024 08:44:36 PM - ApiCollector - WARNING - Processo falhou na etapa get_data
+02/03/2024 08:48:23 PM - ApiCollector - INFO - Obtencao de dados realizada com sucesso
+02/03/2024 08:48:23 PM - ApiCollector - INFO - Extracao de dados realizada com sucesso
+02/03/2024 08:48:23 PM - ApiCollector - INFO - DF criado com sucesso
+02/03/2024 08:48:23 PM - ApiCollector - INFO - Parquet criado com sucesso
+02/03/2024 08:48:25 PM - ManipulateGCSBucket - INFO - Blob api-reponse-compra2024-02-03T20:48:23.parquet criado no bucket <Bucket: vitorsoier-teste01-datawarehouse>

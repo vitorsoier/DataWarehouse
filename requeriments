@@ -2,3 +2,4 @@ pandas
 fastApi
 uvicorn
 Faker
+google-cloud-storage
