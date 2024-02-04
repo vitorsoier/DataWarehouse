@@ -3,3 +3,4 @@ fastApi
 uvicorn
 Faker
 google-cloud-storage
+schedule
